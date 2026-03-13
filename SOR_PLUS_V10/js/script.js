@@ -1,0 +1,1 @@
+console.log('SOR PLUS V10 JS loaded');
